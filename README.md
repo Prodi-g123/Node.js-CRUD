@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **raulcamarenapro@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
@@ -16,7 +16,7 @@
 
 
 # Node.js-CRUD
-A CRUD app made with HTML, CSS, Javascript and Node.js
+A CRUD app made with HTML, Bootstrap, Javascript and Node.js
 
 # Requirements
 In order to run you must first have installed the latest version of Node.js.
